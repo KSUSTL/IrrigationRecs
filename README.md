@@ -120,8 +120,9 @@ Traditional LR Model (Corwin, Rhoades, and Šimůnek
 Where:  
 LR = leaching requirement (dim)  
 EC<sub>irr</sub> = EC measurement of irrigation water sample (mS
-cm<sup>-1</sup>) EC<sup>\*</sup><sub>soil</sub> = the maximum soil EC
-that still allows for optimum yield of the crop to be grown
+cm<sup>-1</sup>)  
+EC<sup>\*</sup><sub>soil</sub> = the maximum soil EC that still allows
+for optimum yield of the crop to be grown
 
 **Important Notes:**
 

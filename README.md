@@ -3,6 +3,15 @@ Irrigation Water Quality Tests - Interpretation and Recommendations
 Bryan Rutter and Dorivar Ruiz Diaz – Kansas State University Soil
 Testing Lab
 
+  - [Background](#background)
+  - [Objective](#objective)
+  - [Description of calculated
+    values](#description-of-calculated-values)
+      - [Sodium Adsorption Ratio](#sodium-adsorption-ratio)
+      - [Potential Salt Load](#potential-salt-load)
+      - [Leaching Requirement](#leaching-requirement)
+  - [References](#references)
+
 # Background
 
 Saline and sodic soils typically occur in areas where evapotranspiration

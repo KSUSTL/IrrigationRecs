@@ -4,6 +4,8 @@ author: Bryan Rutter and Dorivar Ruiz Diaz – Kansas State University Soil Test
   Lab
 output:
   github_document:
+    toc: true
+    toc_depth: 2
     pandoc_args: --webtex
 bibliography: IrrRecs_RefLib.bib
 link-citations: yes

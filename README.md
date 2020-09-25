@@ -135,14 +135,14 @@ for optimum yield of the crop to be grown
 
 **Important Notes:**
 
-  - LR is a maintenace leaching and is **NOT** the fraction of
+  - LR is a maintenance leaching and is **NOT** the fraction of
     irrigation water required to remediate a saline, sodic, or
-    saline-sodic soil.
+    saline-sodic soil.  
   - LR should be calculated based on the least salt-tolerant crop in a
     crop-rotation. For example, if a crop rotation consists of
     corn-wheat-soybean, the LR should be calculated based on the salt
-    tolerance of soybean (\~1.5 mS cm<sup>-1</sup>)
-  - For recommendations on the managment and remediation of saline,
+    tolerance of soybean (\~ 4 mS cm<sup>-1</sup>)  
+  - For recommendations on the management and remediation of saline,
     sodic, and saline-sodic soils, see Ruiz Diaz and Presley
     ([2017](#ref-RuizDiaz2017))
 

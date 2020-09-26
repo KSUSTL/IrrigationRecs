@@ -70,8 +70,10 @@ EC^\*^~soil~ = the maximum soil EC that still allows for optimum yield of the cr
 
 **Important Notes:**
 
-- LR is a maintenace leaching and is **NOT** the fraction of irrigation water required to remediate a saline, sodic, or saline-sodic soil.
-- LR should be calculated based on the least salt-tolerant crop in a crop-rotation. For example, if a crop rotation consists of corn-wheat-soybean, the LR should be calculated based on the salt tolerance of soybean (~1.5 mS cm^-1^)
-- For recommendations on the managment and remediation of saline, sodic, and saline-sodic soils, see @RuizDiaz2017
+- LR is a maintenance leaching and is **NOT** the fraction of irrigation water required to remediate a saline, sodic, or saline-sodic soil.  
+- LR should be calculated based on the least salt-tolerant crop in a crop-rotation. For example, if a crop rotation consists of corn-wheat-soybean, the LR should be calculated based on the salt tolerance of soybean (~ 4 mS cm^-1^)  
+- For recommendations on the management and remediation of saline, sodic, and saline-sodic soils, see @RuizDiaz2017  
+
+[![DOI](https://zenodo.org/badge/287821972.svg)](https://zenodo.org/badge/latestdoi/287821972)  
 
 # References

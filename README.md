@@ -146,6 +146,8 @@ for optimum yield of the crop to be grown
     sodic, and saline-sodic soils, see Ruiz Diaz and Presley
     ([2017](#ref-RuizDiaz2017))
 
+[![DOI](https://zenodo.org/badge/287821972.svg)](https://zenodo.org/badge/latestdoi/287821972)
+
 # References
 
 <div id="refs" class="references">
